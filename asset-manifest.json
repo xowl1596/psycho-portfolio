@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/psycho-portfolio/static/css/main.520f56fb.css",
-    "main.js": "/psycho-portfolio/static/js/main.4400c193.js",
+    "main.js": "/psycho-portfolio/static/js/main.efa12fca.js",
     "static/js/787.a3c596ff.chunk.js": "/psycho-portfolio/static/js/787.a3c596ff.chunk.js",
     "static/media/icon-github.png": "/psycho-portfolio/static/media/icon-github.44eee0c4a6c25b0d7347.png",
     "static/media/icon-email.png": "/psycho-portfolio/static/media/icon-email.67bda94140af311d041f.png",
     "static/media/icon-tel.png": "/psycho-portfolio/static/media/icon-tel.de6b5a0db46d87f558c2.png",
     "index.html": "/psycho-portfolio/index.html",
     "main.520f56fb.css.map": "/psycho-portfolio/static/css/main.520f56fb.css.map",
-    "main.4400c193.js.map": "/psycho-portfolio/static/js/main.4400c193.js.map",
+    "main.efa12fca.js.map": "/psycho-portfolio/static/js/main.efa12fca.js.map",
     "787.a3c596ff.chunk.js.map": "/psycho-portfolio/static/js/787.a3c596ff.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.520f56fb.css",
-    "static/js/main.4400c193.js"
+    "static/js/main.efa12fca.js"
   ]
 }
