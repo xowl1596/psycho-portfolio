@@ -8,7 +8,7 @@ function Header() {
         <div className='wave wave-3'></div>
         <div className='titleWrapper'>
             <div className='title'>Taeji Jang</div>
-			<div className='subtitle'>(Psycho)</div>
+			<div className='subtitle'>머지않아 대한민국을 손에 넣을 남자</div>
         </div>
     </div>
   );
