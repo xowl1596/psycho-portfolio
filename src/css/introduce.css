@@ -1,0 +1,43 @@
+.Introduce{
+    display : grid;
+    margin-top : 20px;
+    grid-template-columns: 1fr 4fr;
+    column-gap: 40px;
+}
+
+.main-col-left{
+    grid-column: 1;
+}
+
+.main-col-right{
+    grid-column: 2;
+}
+
+.profile-picture{
+    width : 100%;
+    margin : 10px;
+}
+
+@media all and (max-width:767px) {
+    .Introduce{
+        display : grid;
+        margin-top : 20px;
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr auto;
+    }
+
+    .main-col-left{
+        grid-column: 1;
+        grid-row: 1;
+    }
+    
+    .main-col-right{
+        grid-column: 1;
+        grid-row: 2;
+    }
+
+    .profile-picture{
+        width : 100%;
+        margin : auto;
+    }
+}
