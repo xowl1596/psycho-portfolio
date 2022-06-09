@@ -1,0 +1,26 @@
+.TechStack{
+    display : grid;
+    margin-top : 20px;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 20px;
+    row-gap: 20px;
+}
+
+.card-img-top{
+    width : 20%;
+    margin : auto;
+    margin-top : 20px;
+}
+
+.card-body img{
+    margin : 10px;
+}
+
+@media all and (max-width:767px) {
+    .TechStack{
+        display : grid;
+        margin-top : 20px;
+        grid-template-columns: 1fr;
+        column-gap: 40px;
+    }
+}

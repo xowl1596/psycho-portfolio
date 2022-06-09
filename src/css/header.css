@@ -63,7 +63,8 @@
     height : 50px;
 }
 
-.subtitle{
-    font-size : 30px;
-    height : 50px;
+@media all and (max-width:767px) {
+    .subtitle{
+        display: none;
+    }
 }
