@@ -1,19 +1,23 @@
 {
   "files": {
-    "main.css": "/psycho-portfolio/static/css/main.2a775cbd.css",
-    "main.js": "/psycho-portfolio/static/js/main.2e6c8bf1.js",
+    "main.css": "/psycho-portfolio/static/css/main.1431b501.css",
+    "main.js": "/psycho-portfolio/static/js/main.5a5f8d82.js",
     "static/js/787.a3c596ff.chunk.js": "/psycho-portfolio/static/js/787.a3c596ff.chunk.js",
     "static/media/profile-pic.png": "/psycho-portfolio/static/media/profile-pic.b25ab7597f568427cceb.png",
+    "static/media/icon-backend.png": "/psycho-portfolio/static/media/icon-backend.6b43ee7c655f205d7c60.png",
     "static/media/icon-github.png": "/psycho-portfolio/static/media/icon-github.44eee0c4a6c25b0d7347.png",
+    "static/media/icon-coding.png": "/psycho-portfolio/static/media/icon-coding.a3406fa6b026d3bd5185.png",
+    "static/media/icon-frontend.png": "/psycho-portfolio/static/media/icon-frontend.99c0f78731e373179bc2.png",
+    "static/media/icon-database.png": "/psycho-portfolio/static/media/icon-database.6758ef33668e2375c700.png",
     "static/media/icon-email.png": "/psycho-portfolio/static/media/icon-email.67bda94140af311d041f.png",
     "static/media/icon-tel.png": "/psycho-portfolio/static/media/icon-tel.de6b5a0db46d87f558c2.png",
     "index.html": "/psycho-portfolio/index.html",
-    "main.2a775cbd.css.map": "/psycho-portfolio/static/css/main.2a775cbd.css.map",
-    "main.2e6c8bf1.js.map": "/psycho-portfolio/static/js/main.2e6c8bf1.js.map",
+    "main.1431b501.css.map": "/psycho-portfolio/static/css/main.1431b501.css.map",
+    "main.5a5f8d82.js.map": "/psycho-portfolio/static/js/main.5a5f8d82.js.map",
     "787.a3c596ff.chunk.js.map": "/psycho-portfolio/static/js/787.a3c596ff.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2a775cbd.css",
-    "static/js/main.2e6c8bf1.js"
+    "static/css/main.1431b501.css",
+    "static/js/main.5a5f8d82.js"
   ]
 }
