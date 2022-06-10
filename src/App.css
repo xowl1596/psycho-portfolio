@@ -6,3 +6,8 @@ html, body {
   	display: block;
   	background-color : #F9F9F9;
 }
+
+.section-title{
+	font-size : 60px;
+	text-align : center;
+}

@@ -5,3 +5,38 @@
     column-gap: 20px;
     row-gap: 20px;
 }
+
+.card-img-top{
+    width : 20%;
+    margin : auto;
+    margin-top : 20px;
+}
+
+.card-body img{
+    margin : 10px;
+}
+
+.accordion-item{
+    margin-bottom : 20px;
+}
+
+.accordion-header button{
+    font-size : 30px;
+}
+
+.accordion-header img{
+    height: 60px;
+    margin-right: 20px;
+}
+
+.svg-logo{
+    background-color: lightgrey;
+}
+@media all and (max-width:767px) {
+    .Projects{
+        display : grid;
+        margin-top : 20px;
+        grid-template-columns: 1fr;
+        column-gap: 40px;
+    }
+}

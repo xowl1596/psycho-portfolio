@@ -69,9 +69,12 @@ function TechStack() {
     return result;
   }
   return (
-    <div className="TechStack">
-        {appendTechStackCards()}
-    </div>
+    <>
+	  <p className="section-title">Tech</p>
+      <div className="TechStack">
+          {appendTechStackCards()}
+      </div>
+    </>
   );
 }
 

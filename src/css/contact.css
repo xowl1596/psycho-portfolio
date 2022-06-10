@@ -1,0 +1,17 @@
+.contact-wrapper{
+    display : none;
+}
+
+.Contact{
+    text-align : center;
+}
+
+.Contact a{
+    margin : 0 10px 0 10px;
+}
+
+@media all and (max-width:767px) {
+    .contact-wrapper{
+        display : block;
+    }
+}
