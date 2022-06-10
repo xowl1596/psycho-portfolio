@@ -6,6 +6,22 @@
     row-gap: 20px;
 }
 
+.accordion-body{
+    white-space: pre-wrap;
+}
+
+.accordion-body p{
+    white-space: pre-wrap;
+    margin-bottom: 0.5rem;
+}
+
+
+.accordion-body img{
+    border : 1px solid lightgrey;
+    width : 46%;
+    margin : 10px;
+}
+
 .card-img-top{
     width : 20%;
     margin : auto;
@@ -38,5 +54,10 @@
         margin-top : 20px;
         grid-template-columns: 1fr;
         column-gap: 40px;
+    }
+
+    .accordion-body img{
+        width : 100%;
+        margin-bottom : 10px;
     }
 }
