@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/psycho-portfolio/static/css/main.6dc3acc4.css",
-    "main.js": "/psycho-portfolio/static/js/main.00bf219b.js",
+    "main.css": "/psycho-portfolio/static/css/main.45c3fd16.css",
+    "main.js": "/psycho-portfolio/static/js/main.0554d62a.js",
     "static/js/787.a3c596ff.chunk.js": "/psycho-portfolio/static/js/787.a3c596ff.chunk.js",
     "static/media/profile-pic.png": "/psycho-portfolio/static/media/profile-pic.b25ab7597f568427cceb.png",
     "static/media/icon-backend.png": "/psycho-portfolio/static/media/icon-backend.6b43ee7c655f205d7c60.png",
@@ -13,12 +13,12 @@
     "static/media/icon-tel.png": "/psycho-portfolio/static/media/icon-tel.de6b5a0db46d87f558c2.png",
     "static/media/logo-colours.svg": "/psycho-portfolio/static/media/logo-colours.e2434b4b093029fbabeecc0a45b2a355.svg",
     "index.html": "/psycho-portfolio/index.html",
-    "main.6dc3acc4.css.map": "/psycho-portfolio/static/css/main.6dc3acc4.css.map",
-    "main.00bf219b.js.map": "/psycho-portfolio/static/js/main.00bf219b.js.map",
+    "main.45c3fd16.css.map": "/psycho-portfolio/static/css/main.45c3fd16.css.map",
+    "main.0554d62a.js.map": "/psycho-portfolio/static/js/main.0554d62a.js.map",
     "787.a3c596ff.chunk.js.map": "/psycho-portfolio/static/js/787.a3c596ff.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6dc3acc4.css",
-    "static/js/main.00bf219b.js"
+    "static/css/main.45c3fd16.css",
+    "static/js/main.0554d62a.js"
   ]
 }
