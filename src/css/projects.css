@@ -16,7 +16,7 @@
 }
 
 
-.accordion-body img{
+.accordion-body .project-img{
     border : 1px solid lightgrey;
     width : 46%;
     margin : 10px;
@@ -48,6 +48,11 @@
 .svg-logo{
     background-color: lightgrey;
 }
+
+.tech-badge{
+    margin : 10px;
+}
+
 @media all and (max-width:767px) {
     .Projects{
         display : grid;
@@ -56,7 +61,7 @@
         column-gap: 40px;
     }
 
-    .accordion-body img{
+    .accordion-body .project-img{
         width : 100%;
         margin-bottom : 10px;
     }
