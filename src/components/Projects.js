@@ -60,6 +60,20 @@ function Projects() {
 					<img className="tech-badge" src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"></img>
 				</Accordion.Body>
 			</Accordion.Item>
+			<Accordion.Item eventKey="2">
+				<Accordion.Header>사이드 프로젝트</Accordion.Header>
+				<Accordion.Body>
+					<div className="text-center">
+						<img src={require("../assets/project-llama.png")} className="project-img rounded"></img>
+						<img src={require("../assets/project-llama2.png")} className="project-img rounded"></img>
+					</div>
+					<h4><a href="https://cims.webtoonguide.com/">침뱉는 라마(2022-01)</a></h4>
+					<p>디스코드 봇(토이 프로젝트)</p>
+					<p>DB 설계 및 구현 및 사이트 개발 참여</p>
+					<h5>사용 언어/기술</h5>
+					<img className="tech-badge" src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"></img>
+				</Accordion.Body>
+			</Accordion.Item>
 		</Accordion>
 		</div>
 	</>
