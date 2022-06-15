@@ -60,7 +60,7 @@ function Projects() {
 					<img className="tech-badge" src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"></img>
 				</Accordion.Body>
 			</Accordion.Item>
-			<Accordion.Item eventKey="2">
+			<Accordion.Item eventKey="3">
 				<Accordion.Header>사이드 프로젝트</Accordion.Header>
 				<Accordion.Body>
 					<div className="text-center">
